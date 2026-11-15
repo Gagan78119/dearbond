@@ -1,0 +1,58 @@
+export const collectionsData = [
+  {
+    id: 'birthday',
+    name: 'Birthday Hampers',
+    description: 'Celebrate their special milestone with charming keepsakes, confections, and joyful pastel details.',
+    image: 'https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=800&q=80',
+    itemCount: '6 Signature Styles',
+  },
+  {
+    id: 'anniversary',
+    name: 'Anniversary Gifts',
+    description: 'Romantic arrangements with rose gold accents, scented botanical candles, and heartfelt keepsakes.',
+    image: 'https://images.unsplash.com/photo-1513201099705-a9746e1e201f?auto=format&fit=crop&w=800&q=80',
+    itemCount: '5 Curated Hampers',
+  },
+  {
+    id: 'chocolate',
+    name: 'Chocolate Hampers',
+    description: 'Artisanal truffles, handcrafted chocolate bars, and gourmet confections nestled in satin ribbons.',
+    image: 'https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=800&q=80',
+    itemCount: '4 Indulgent Boxes',
+  },
+  {
+    id: 'personalized',
+    name: 'Personalized Gifts',
+    description: 'Custom-engraved frames, embossed leather accessories, and wax-sealed handwritten notes.',
+    image: 'https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=80',
+    itemCount: 'Made-to-Order',
+  },
+  {
+    id: 'couple',
+    name: 'Couple Gifts',
+    description: 'Coordinated treasures, couple keepsakes, and cozy celebratory treats for lovebirds.',
+    image: 'https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=800&q=80',
+    itemCount: '5 Romantic Sets',
+  },
+  {
+    id: 'bridesmaid',
+    name: 'Bridesmaid & Wedding Hampers',
+    description: 'Opulent bridesmaid proposals, bridal morning essentials, and luxury wedding welcome trays.',
+    image: 'https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=800&q=80',
+    itemCount: 'Bespoke Suites',
+  },
+  {
+    id: 'customized',
+    name: 'Customized Gift Boxes',
+    description: 'Mix, match, and tailor every element to match your chosen colour palette, theme, and taste.',
+    image: 'https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=800&q=80',
+    itemCount: 'Full Flexibility',
+  },
+  {
+    id: 'festival',
+    name: 'Festival & Occasion Gifts',
+    description: 'Festive radiance featuring sweet confections, artisanal diyas or decorations, and joyous blessings.',
+    image: 'https://images.unsplash.com/photo-1607344645866-009c320c5ab8?auto=format&fit=crop&w=800&q=80',
+    itemCount: 'Seasonal Curation',
+  },
+];
